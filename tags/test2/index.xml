@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test2 on TheFake VIP</title>
+    <link>https://mcb2003.github.io/tags/test2/</link>
+    <description>Recent content in test2 on TheFake VIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 26 Jan 2021 19:25:27 +0000</lastBuildDate><atom:link href="https://mcb2003.github.io/tags/test2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A test page</title>
+      <link>https://mcb2003.github.io/blog/a/</link>
+      <pubDate>Tue, 26 Jan 2021 19:25:27 +0000</pubDate>
+      
+      <guid>https://mcb2003.github.io/blog/a/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is just a random test page.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
